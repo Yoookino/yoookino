@@ -30,11 +30,15 @@
   &ensp;&ensp;📷摄影、📻业余无线电、🏍️骑行、🏕️户外、🎹音游
 
 - &ensp;**社交账号：**
+
 &ensp;&ensp;[![Static Badge](https://img.shields.io/badge/B%E7%AB%99_Bilibili-blue?style=flat-square&logo=bilibili&logoColor=default&labelColor=pink&link=https%3A%2F%2Fspace.bilibili.com%2F9333645)](https://space.bilibili.com/9333645) [![Static Badge](https://img.shields.io/badge/Twitter_(X)-blue?style=flat-square&logo=X&logoColor=default&labelColor=black&link=https%3A%2F%2Fwww.twitter.com%2Fyoookino)](https://www.twitter.com/yoookino) [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=default&labelColor=eeeeee&link=https%3A%2F%2Ft.me%2FYoookino)](https://t.me/yoookino) [![Static Badge](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram&logoColor=default&labelColor=deeppink&link=https%3A%2F%2Fwww.instagram.com%2Fyoookino_photograph)](https://www.instagram.com/yoookino_photograph) [![Static Badge](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=default&labelColor=eeeeee&link=yoookino%40gmail.com)](yoookino@gmail.com) <br>
 喜欢看摇曳露营，纯纯的百合豚，铁打的百合战士(
 >ゆるキャン△-各務原なでしこ
 
 ---
 
-🎵最近爱听的音乐：[ASTRAM「スターロア」](https://youtu.be/6fPm_DNDvHI?si=rwBM-EGbacJw53u_)
+#### 🎵最近爱听的音乐：
 
+>[ASTRAM - スターロア](https://youtu.be/6fPm_DNDvHI?si=rwBM-EGbacJw53u_)
+>[LanPage - 苦しめてしまうよ](https://youtu.be/h-bW2j04PZA?si=We-OO56L2-stObbW)
+>[somunia - 各駅停車](https://youtu.be/YiMAilLFZSc?si=eali6LwGoTaZ9nje)
