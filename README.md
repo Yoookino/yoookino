@@ -42,3 +42,7 @@
 >[ASTRAM - スターロア](https://youtu.be/6fPm_DNDvHI?si=rwBM-EGbacJw53u_)<br>
 >[LanPage - 苦しめてしまうよ](https://youtu.be/h-bW2j04PZA?si=We-OO56L2-stObbW)<br>
 >[somunia - 各駅停車](https://youtu.be/YiMAilLFZSc?si=eali6LwGoTaZ9nje)<br>
+
+
+
+![Visitors](https://count.getloli.com/get/@:Yoookino)
