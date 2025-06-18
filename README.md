@@ -21,7 +21,7 @@
 
 <br>
 
-<img align=left src=".//PhotoResource/YuruCamp.png" style="width:250px;" /> 
+<img align=left src=".//PhotoResource/YuruCamp.png" style="width:300px;" /> 
 
 ---
 
