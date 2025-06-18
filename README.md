@@ -4,7 +4,7 @@
 
 ### About me
 
-&ensp;&ensp;一名正在学习中的宅宅开发者，日常在代码和兴趣之间反复横跳。目前主要学习C / Java / JavaScript / HTML / CSS 等语言，总而言之还是前端偏多，后端太难了(啥也不会，吃饱就睡)  
+&ensp;&ensp;一名正在学习中的宅宅开发者，日常在代码和兴趣之间反复横跳。目前主要学习 C / Java / JavaScript / HTML / CSS 等语言，总而言之还是前端偏多，后端太难了(啥也不会，吃饱就睡)  
 
 >今天也要元气满满地学习面向 Ctrl C+V 的编程
 
@@ -30,7 +30,7 @@
   &ensp;&ensp;📷摄影、📻业余无线电、🏍️骑行、🏕️户外、🎹音游
 
 - &ensp;**社交账号：**
-&ensp;&ensp;![Static Badge](https://img.shields.io/badge/B%E7%AB%99_Bilibili-blue?style=flat-square&logo=bilibili&logoColor=default&labelColor=pink&link=https%3A%2F%2Fspace.bilibili.com%2F9333645) ![Static Badge](https://img.shields.io/badge/Twitter_(X)-blue?style=flat-square&logo=X&logoColor=default&labelColor=black&link=https%3A%2F%2Fwww.twitter.com%2Fyoookino) ![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=default&labelColor=eeeeee&link=https%3A%2F%2Ft.me%2FYoookino) ![Static Badge](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram&logoColor=default&labelColor=deeppink&link=https%3A%2F%2Fwww.instagram.com%2Fyoookino_photograph) ![Static Badge](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=default&labelColor=eeeeee&link=yoookino%40gmail.com) <br>
+&ensp;&ensp;[![Static Badge](https://img.shields.io/badge/B%E7%AB%99_Bilibili-blue?style=flat-square&logo=bilibili&logoColor=default&labelColor=pink&link=https%3A%2F%2Fspace.bilibili.com%2F9333645)](https://space.bilibili.com/9333645) [![Static Badge](https://img.shields.io/badge/Twitter_(X)-blue?style=flat-square&logo=X&logoColor=default&labelColor=black&link=https%3A%2F%2Fwww.twitter.com%2Fyoookino)](https://www.twitter.com/yoookino) [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=telegram&logoColor=default&labelColor=eeeeee&link=https%3A%2F%2Ft.me%2FYoookino)](https://t.me/yoookino) [![Static Badge](https://img.shields.io/badge/Instagram-blue?style=flat-square&logo=instagram&logoColor=default&labelColor=deeppink&link=https%3A%2F%2Fwww.instagram.com%2Fyoookino_photograph)](https://www.instagram.com/yoookino_photograph) [![Static Badge](https://img.shields.io/badge/Gmail-blue?style=flat-square&logo=gmail&logoColor=default&labelColor=eeeeee&link=yoookino%40gmail.com)](yoookino@gmail.com) <br>
 喜欢看摇曳露营，纯纯的百合豚，铁打的百合战士(
 >ゆるキャン△-各務原なでしこ
 
